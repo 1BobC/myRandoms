@@ -4,8 +4,13 @@ h1 {color: crimson;
     padding: 20px;
     text-align: center;
 }
-div{
+p {color: #1421dc;
     border: 3px dotted blue;
+    padding: 20px;
+    text-align: center;
+}
+ul{
+    border: 3px dotted #ff00dd;
     padding: 5px;
     text-align: center;
 }
