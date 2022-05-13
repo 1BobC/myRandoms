@@ -18,6 +18,9 @@ randies.forEach(randy => {
  if(randy.textContent.includes('Fifth')){
         randy.innerText += " is  " +  Math.round(Math.random() * 47);
 } 
+if(randy.textContent.includes('One')){
+    randy.innerText += " is  " +  Math.round(Math.random() * 10);
+} 
 if(randy.textContent.includes('first')){
     randy.innerText += " is  " +  Math.round(Math.random() * 59); 
 }
