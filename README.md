@@ -13,4 +13,4 @@ Ensure each random number is different.
 "Completed coding for 6 random numbers simply displayed on document" 
 "Tidied up jscipt reducing number of lines by including random number calculation
 in each number's call back code"
-"Completed coding for 6 random nubers 1-59 and 5 random numbers 1-47 displayed in html"
+"Complete six and five randoms"
